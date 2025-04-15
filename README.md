@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Smart+Contract+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+Web3+Exspert alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,18 +15,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Lostsec`](https://www.youtube.com/@lostsecc)**, a blockchain developer & smart contract auditor, and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in smart contract development, security audits, and vulnerability assessment, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm ** [H3X] *, a blockchain developer & smart contract auditor, and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in smart contract development, security audits, and vulnerability assessment, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: coffin
+- **Name**: H3X
 - **From**: USA
 - **Smart Contract Developer** | **Security Auditor** | **Blockchain Enthusiast**
 - I have experience in **Blockchain Development,** **Smart Contract Security Audits,** **Vulnerability Assessment**, and **Decentralized Application Development**.
 - Improving my knowledge in **Web3 technologies and decentralized finance**.
 - Lifelong learner — always exploring **everything** related to blockchain.
-- Reach me out at **coffinxp7@proton.me**
+- Reach me out at **H3x@proton.me**
 
 </details>
 <br>
@@ -47,7 +47,7 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsecc)**, a blockchain developer &
 
 👉 Currently Learning Mobile Web3 Development & DeFi Concepts.
 
-`Updating:` Journey to Cybersecurity Specialist.
+`Updating:` Journey to professional, smart contract auditor.
 
 ---
 
@@ -77,26 +77,10 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsecc)**, a blockchain developer &
 </div>
 
 ---
+[![My Awesome Stats👾](https://awesome-github-stats.azurewebsites.net/user-stats/HX3x?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+![HX3x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HX3x&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-[![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
-<p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450" /></a></p>
-
-<br><br>
-
-<h2 id="donate" align=''> Support⚡️</h2>
-
-<details>
-<summary>Buy Me A Coffee</summary>
-
-<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
-
-<p align="center"><a href="https://buymeacoffee.com/coffinxp"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
-
-</details>
 
 <p align="center">
   <b><i>"Never give up. Never back down."</i></b>
